@@ -26,3 +26,28 @@ body {
     /* font-size: 1.5rem; */
     /* color: white; */
 }
+
+.projects{
+ background-color: black;
+ width: 100%;
+ color: white;
+}
+
+.project{
+width: 100%;
+text-align: center;
+}
+
+.project-title{
+
+}
+
+.project-link{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.project-link:hover{
+    text-decoration: underline;
+}
