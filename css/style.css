@@ -1,0 +1,28 @@
+*,
+html,
+body {
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+.welcome {
+    width: 100%;
+}
+
+.picture-div {
+    width: 50%;
+    margin: 0 auto;
+    height: 20vh;
+}
+
+.header-text-div {
+    padding: 1rem;
+    text-align: center;
+}
+
+.header-text {
+    font-weight: bold;
+    /* letter-spacing: .1rem; */
+    /* font-size: 1.5rem; */
+    /* color: white; */
+}
